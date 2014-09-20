@@ -5,7 +5,6 @@
     <title>TapThat</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.css">
-    
   </head>
   <body>
     <div class="navbar navbar-default navbar-fixed-top">
@@ -1235,7 +1234,12 @@
 
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="js/bootstrap.js"></script>
-    <script src="../assets/js/bootswatch.js"></script>
+    <script type="application/javascript" src='js/fastclick.js'></script>
+    <script type="application/javascript">
+	window.addEventListener('load', function () {
+		FastClick.attach(document.body);
+	}, false);
+	</script> 
   </body>
 </html>
 
