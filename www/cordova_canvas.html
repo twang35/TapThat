@@ -60,7 +60,9 @@
         box-shadow:  0 0 3px 1px #888;
       }
     </style>
+    <link rel="stylesheet" href="css/bootstrap.css">
 	<script type="text/javascript">
+
 
 // Cordova is loaded and it is now safe to make calls Cordova methods
 function onDeviceReady() {
@@ -296,8 +298,7 @@ function buzzDevice(pos){
 <div data-role="page" id="page1">
     <div data-theme="a" data-role="header">
         <h3>Tap That</h3>
-		<a id="new" data-role="button" data-theme="b" class="ui-btn-left" style="margin-left:120px">Clear Screen</a>
-		<a id="exit" data-role="button" data-theme="b" class="ui-btn-left">Stop Tapping</a>
+		<a id="new" data-role="button" data-theme="b" class="ui-btn-left">Clear Screen</a>
 		<a id="etch" data-role="button" data-theme="b" class="ui-btn-right">Etch OFF</a>
     </div>
     <div id="content"></div>
@@ -305,6 +306,20 @@ function buzzDevice(pos){
 	<div id="debug" style="display:none;position:absolute;top:45px;left:1px;right:1px;height:60px;background-color:#eea"></div>
     <div id="etchHelp">Turning <strong>Etch ON</strong> will enable drawing using the device's accelerometer by tilting the device in any direction.</div>
 </div> 
-<script src="http://debug-software.intel.com/target/target-script-min.js#1b241e6f-8fea-4baf-a130-0a2469b2b965"/>
 </body>
+<footer style="margin-top:60px;">
+	<div class="bottomNav" style="margin-left:0px;">
+		<div class="row" align="center">
+			<div class="col-xs-4">
+				<a id="exit">Contacts</a>
+			</div>
+			<div class="col-xs-4">
+				Draw
+			</div>
+			<div class="col-xs-4">
+				<a>About Us</a>
+			</div>
+		</div>
+	</div>
+</footer>
 </html>
