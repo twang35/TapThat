@@ -29,11 +29,10 @@
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/_where-is-www.txt \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/canvas.html \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/cordova.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/cordova_plugins.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/css \
-/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/html5-canvas-drawing-app.html \
-/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/html5-canvas-drawing-app.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/index.html \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/index2.html \
@@ -55,7 +54,7 @@
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/marker-background.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/marker-outline.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/bootstrap.js \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/canvas.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/fastclick.js \
-/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/html5-canvas-drawing-app.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/index.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/ant-build/AndroidManifest.xml \
