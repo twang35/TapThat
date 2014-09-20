@@ -39,6 +39,7 @@
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/css/bootstrap.css \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/blank.png \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/carie.jpg \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/color-swatch-brown.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/color-swatch-erase.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/color-swatch-green.png \
@@ -48,11 +49,16 @@
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/crayon-background.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/crayon-outline.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/crayon-texture.png \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/dave.jpg \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/eraser-background.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/eraser-outline.png \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/joeuhl.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/logo.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/marker-background.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/marker-outline.png \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/michael_2.jpg \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/mike.png \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/pauljudge.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/bootstrap.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/canvas.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/fastclick.js \
