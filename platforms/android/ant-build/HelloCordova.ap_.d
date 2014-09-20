@@ -35,7 +35,7 @@
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/index.html \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js \
-/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/css/index.css \
+/Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/css/bootstrap.css \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/img/logo.png \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/assets/www/js/index.js \
 /Users/tonywang/Desktop/OneDrive/Workspace/Hackathons/TapThat/platforms/android/ant-build/AndroidManifest.xml \
