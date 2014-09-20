@@ -92,6 +92,10 @@ $(document).ready(function () {
 		newCanvas();
 	});
     
+    $("#exit").click(function(){
+    	window.open("index.html");
+    });
+
     // hide help popup when clicked anywhere on screen
     $("body").click(function(){
         $("#etchHelp").fadeOut();    
@@ -293,7 +297,7 @@ function buzzDevice(pos){
     <div data-theme="a" data-role="header">
         <h3>Tap That</h3>
 		<a id="new" data-role="button" data-theme="b" class="ui-btn-left" style="margin-left:120px">Clear Screen</a>
-		<a id="exit" data-role="button" data-theme="b" class="ui-btn-left" href="index.html">Stop Tapping</a>
+		<a id="exit" data-role="button" data-theme="b" class="ui-btn-left">Stop Tapping</a>
 		<a id="etch" data-role="button" data-theme="b" class="ui-btn-right">Etch OFF</a>
     </div>
     <div id="content"></div>
