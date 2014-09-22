@@ -26,7 +26,7 @@ Wanna get pizza?
 Developers
 ----------
 
-Tony Wang
-Ben Chang
-Allen Nie
+Tony Wang,
+Ben Chang,
+Allen Nie,
 Mike Zhai
