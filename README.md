@@ -21,3 +21,12 @@ Happy Face!
 Wanna get pizza?
 
 ![Wanna get pizza?](http://tony-wang.com/github/pizza.gif)
+
+
+Developers
+----------
+
+Tony Wang
+Ben Chang
+Allen Nie
+Mike Zhai
