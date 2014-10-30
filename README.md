@@ -5,7 +5,7 @@ Our generation has always prided ourselves on being able to multitask, but what 
 
 TapThat allows each user to connect with a friend and communicate via a live sketch session. 
 
-The app is compiled on PhoneGap and the database runs Node.js with Socket.IO sending and receiving real-time data.
+The app is compiled on PhoneGap and the server runs Node.js with Socket.IO sending and receiving real-time data.
 
 Demos
 -----
